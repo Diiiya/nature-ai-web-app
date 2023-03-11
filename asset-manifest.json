@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nature-ai-web-page/static/css/main.e6c13ad2.css",
+    "main.js": "/nature-ai-web-page/static/js/main.199ff4bd.js",
+    "static/js/787.ab9b9e2d.chunk.js": "/nature-ai-web-page/static/js/787.ab9b9e2d.chunk.js",
+    "index.html": "/nature-ai-web-page/index.html",
+    "main.e6c13ad2.css.map": "/nature-ai-web-page/static/css/main.e6c13ad2.css.map",
+    "main.199ff4bd.js.map": "/nature-ai-web-page/static/js/main.199ff4bd.js.map",
+    "787.ab9b9e2d.chunk.js.map": "/nature-ai-web-page/static/js/787.ab9b9e2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.199ff4bd.js"
+  ]
+}
